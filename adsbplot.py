@@ -22,7 +22,7 @@ FILENAME = ""
 
 if __name__ == '__main__':
 	parse = argparse.ArgumentParser()
-	parse.add_argument('f')
+	parse.add_argument('-f')
 	args = parse.parse_args()
 	
 	if args.f:
