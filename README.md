@@ -13,5 +13,7 @@ python adsbplot.py -f /path/to/dump1090:3003/data.csv
 
 ## Dependencies:
 MatPlotLib
+
 NumPy
+
 SciPy
