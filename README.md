@@ -1,6 +1,8 @@
 # ADS-B-plot
 A simple script for plotting the flight path of aircraft from ADS-B packet data
 
+_Notes: I didn't expect this to get much attention, but since it seems to appeal to people i'll try to expand on it in the near future. Current goal is to have a reasonably fleshed out version by early september._ 
+
 ## Demonstration
 ![Screenshot of Plot](http://i.imgur.com/cTYEhHb.png "One day's worth of Aircraft")
 
